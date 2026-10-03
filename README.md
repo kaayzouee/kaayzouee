@@ -27,7 +27,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/contributor-KVM-d3869b?style=for-the-badge&labelColor=3c3836" />
   <img src="https://img.shields.io/badge/contributor-Ghidra-fe8019?style=for-the-badge&labelColor=3c3836" />
-  <img src="https://img.shields.io/badge/OSdev-self--taught-8ec07c?style=for-the-badge&labelColor=3c3836" />
 </div>
 
 <div align="center">
